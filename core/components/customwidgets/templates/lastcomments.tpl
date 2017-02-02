@@ -1,0 +1,1 @@
+<div id="modx-grid-last-comments"></div>
